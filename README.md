@@ -1,5 +1,5 @@
 # TelePy
-Just telegram bots writeen in python.
+Just telegram bots written in python.
 
  What we need?
     -First of all:
