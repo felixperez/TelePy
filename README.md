@@ -1,2 +1,2 @@
 # TelePy
-Telegram bot written in python
+Just telegram bots writeen in python.
